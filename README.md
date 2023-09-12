@@ -12,10 +12,10 @@ So this file will help you to read the API testing projects specs
 ## Usage 
 This repo contains *APIs* for testing them as the following  
 
-### _1- Download the *Json* file_.
-### _2- Open Postman_.
-### _3- Press  file_.
-### _4- Choose import_.
-### _5- Import The *Json* file you downloaded_
+#### _1- Download the *Json* file_.
+#### _2- Open Postman_.
+#### _3- Press  file_.
+#### _4- Choose import_.
+#### _5- Import The *Json* file you downloaded_
 
 
