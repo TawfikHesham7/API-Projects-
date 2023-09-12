@@ -1,4 +1,4 @@
-# API-Projects Repo-
+# API Projects Repo
 
 ## Installation
 
