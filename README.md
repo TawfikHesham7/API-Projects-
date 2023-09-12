@@ -1,6 +1,6 @@
 # API-Projects-
 
-##Installtion
+## Installation
 
 You need to install **Postman** program to see all end points and start API testing 
 
